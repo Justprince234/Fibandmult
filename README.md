@@ -1,0 +1,1 @@
+A simple demostration of fibonacci series and multiplication table using python.
